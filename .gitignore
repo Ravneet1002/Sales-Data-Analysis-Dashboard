@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Database
+sales.db
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
